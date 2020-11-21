@@ -1,0 +1,115 @@
+echo run it as a super user
+sudo update
+sudo upgrade
+sudo apt update
+sudo apt upgrade
+sudo apt full-upgrade
+sudo apt autoremove
+sudo apt autoclean
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+echo -n your systerm is going to reboot now
+sleep 10
+reboot
